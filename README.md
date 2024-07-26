@@ -152,3 +152,8 @@ O gráfico mostra quais foi o tipo de pagamaneto mais utilizado, se foi cartão 
   - Insights:
     - Pagamento Predominante: O pagamento por cartão é o mais comum, sugerindo uma preferência por conveniência e segurança.
     - Diversificação: Apesar do predomínio do cartão, há uma proporção significativa de pagamentos em dinheiro, o que pode ser considerado ao planejar o fluxo de caixa.
+
+# Contribuição
+Se você quiser contribuir com este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Feito por Derek Willyan
