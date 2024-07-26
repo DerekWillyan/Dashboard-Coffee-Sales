@@ -124,7 +124,7 @@ O gráfico mostra quais foi o tipo de pagamaneto mais utilizado, se foi cartão 
 - Descrição: Um gráfico de séries temporais foi criado para visualizar as vendas ao longo do tempo.
 - Insights:
   - Tendência Geral: Observa-se uma tendência de crescimento nas vendas ao longo do tempo, indicando um aumento na popularidade dos produtos ou uma base de clientes em expansão.
-  - **Picos de Vendas: Existem picos de vendas em determinados dias, que podem estar associados a promoções, eventos especiais ou finais de semana.
+  - Picos de Vendas: Existem picos de vendas em determinados dias, que podem estar associados a promoções, eventos especiais ou finais de semana.
   - Variação Sazonal: Podem ser notadas variações sazonais, com aumentos e diminuições de vendas em certos períodos do mês.
 
 ## 3.2 Gráficos de Barras
@@ -132,19 +132,19 @@ O gráfico mostra quais foi o tipo de pagamaneto mais utilizado, se foi cartão 
 - Cafés Mais Vendidos:
   - Descrição: Um gráfico de barras foi criado para mostrar os cafés mais vendidos.
   - Insights:
-    - Produto Principal: O café mais vendido é o Latte, seguido por Hot Chocolate e Americano.
+    - Produto Principal: O café mais vendido é o Americano, seguido por Latte e Cappuccino.
     - Diversificação: A variedade de cafés vendidos sugere uma clientela diversificada com diferentes preferências.
 
 - Dias das Semanas com Mais e Menos Vendas:
   - Descrição: Um gráfico de barras foi usado para ilustrar os dias da semana com o maior e menor número de vendas.
   - Insights:
-    - Picos Semanais: Os maiores volumes de vendas ocorrem nas sextas-feiras e sábados, possivelmente devido ao aumento de atividades sociais e lazer.
-    - Dias Tranquilos: Os domingos e segundas-feiras registram os menores volumes de vendas, o que pode ser útil para ajustar a escala de funcionários e promoções.
+    - Picos Semanais: Os maiores volumes de vendas ocorrem nas quintas-feiras e terças, possivelmente devido ao aumento de atividades sociais e lazer.
+    - Dias Tranquilos: As sextas e quartas-feiras registram os menores volumes de vendas, o que pode ser útil para ajustar a escala de funcionários e promoções.
 
 - Meses Mais Vendidos:
   - Descrição: Um gráfico de barras mostra os meses com o maior número de vendas.
   - Insights:
-    - Alta Sazonal: Os meses de dezembro e janeiro apresentam as maiores vendas, possivelmente devido ao período de férias e festas.
+    - Alta Sazonal: Os meses de maio e junho apresentam as maiores vendas, possivelmente devido ao período de férias e festas.
     - Baixa Sazonal: Meses como março e abril têm vendas relativamente menores, indicando um período mais tranquilo.
 
 - Tipos de Pagamentos Mais Utilizados:
